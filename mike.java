@@ -4,6 +4,7 @@ public class Main {
         double m=7;
         System.out.println("Returned String: " + Math.ulp(m));
         System.out.println("Return value:"+Math.sqrt(n));
+        System.out.println("Return value:"+Math.sqrt(m));       
         System.out.println("Multiplying numbers :"+n*m);
     }
 }
