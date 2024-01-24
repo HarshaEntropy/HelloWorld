@@ -59,4 +59,5 @@ jobs:
             # mandatory
             -Dsonar.organization=harshaentropy
             -Dsonar.projectKey=HelloWorld
+            -Dsonar.host.url=https://sonarcloud.io \ 
             
