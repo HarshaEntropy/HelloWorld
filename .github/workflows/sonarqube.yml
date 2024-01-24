@@ -57,6 +57,6 @@ jobs:
           args:
             # Unique key of your project. You can find it in SonarQube > [my project] > Project Information (top-right menu)
             # mandatory
-            -Dsonar.organization=Harsha Vardhan
+            -Dsonar.organization=harshaentropy
             -Dsonar.projectKey=helloworld
             
